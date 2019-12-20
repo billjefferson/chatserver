@@ -1,0 +1,6 @@
+C:\Users\bill.maclang\Documents\MyProject\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\bill.maclang\Documents\MyProject\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\bill.maclang\Documents\MyProject\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\bill.maclang\Documents\MyProject\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\bill.maclang\Documents\MyProject\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\bill.maclang\Documents\MyProject\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
